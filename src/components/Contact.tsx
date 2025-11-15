@@ -129,7 +129,7 @@ const Contact = () => {
 
             {/* Resume Download */}
             <div className="text-center">
-              <Button variant="neon" size="lg">
+              <Button variant="default" size="lg">
                 <Download className="h-4 w-4 mr-2" />
                 Download Resume
               </Button>
